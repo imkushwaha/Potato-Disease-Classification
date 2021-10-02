@@ -6,7 +6,7 @@ Farmers who grow potatoes are facing lot of economical losses every year because
 There are two common disease:
 - Early Blight and Late Blight.
 
-- Early Blight: It is caused by a fungus and Late Blight is caused by a specific micro-organism and if a farmer can detect these disease early and apply appropriate treatment then it can save lot of waste a prevent the economic losses.
+- Early Blight: It is caused by a fungus and Late Blight is caused by a specific micro-organism and if a farmer can detect these disease early and apply appropriate treatment then it can save lot of waste and prevent the economic losses.
 
 The treatment for Late Blight and Early Blight are little different, so it is important that you accurately identify what kind of disease is there in that potato plant.
 
