@@ -128,3 +128,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# env dir
+env_potato/
+training/PlantVillage
