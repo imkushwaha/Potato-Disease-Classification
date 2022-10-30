@@ -66,15 +66,12 @@ def predict():
     
             confidence = np.max(predictions[0])
     
-            #return {"class": predicted_class, 
-                   
-                   #"confidence": float(confidence)}
+            
                    
             result =  {"Predicted Class for Given Image:": predicted_class, 
                    
                    "Confidence of Model:": round(float(confidence),2)}      
             
-            #print(predicted_class,confidence)
             
             return render_template("result.html",result = result)
         
