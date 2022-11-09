@@ -133,3 +133,4 @@ dmypy.json
 # env dir
 env_potato/
 training/PlantVillage
+training/PlantVillageDir
